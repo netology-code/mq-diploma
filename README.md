@@ -81,7 +81,7 @@
 </span>
 ```
 
-Чтобы узнать наверняка, какой элемент в какой нужно вкладывать, нужно открыть страницу элемента в [спецификациях](https://html.spec.whatwg.org/multipage/) и посмотреть на значения Categories (к какому типу относится элемент) и Content model (что можно в него вкладывать). Так, h2 относится к Flow content, Heading content и Palpable content, а в span можно вкладывать только Phrasing content. Здесь работает принцип "если не разрешено, то нельзя".
+Чтобы узнать наверняка, какой элемент в какой нужно вкладывать, нужно открыть страницу элемента в [спецификациях](https://html.spec.whatwg.org/multipage/) и посмотреть на значения Categories (к какому типу относится элемент) и Content model (что можно в него вкладывать). Так, [h2](https://html.spec.whatwg.org/multipage/sections.html#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements) относится к Flow content, Heading content и Palpable content, а в [span](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-span-element) можно вкладывать только Phrasing content. Здесь работает принцип "если не разрешено, то нельзя".
 
 ### Семантические названия атрибутов
 Кроме использования семантических тегов также необходимо давать семантические названия значениям атрибутов. Запрещается использовать транслит. 
