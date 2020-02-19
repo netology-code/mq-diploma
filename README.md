@@ -1,5 +1,7 @@
 # Задание на дипломный проект курса «Адаптивная и мобильная верстка»
 
+**Диплом должен быть реализован локально и опубликован на сервисе [GitHub Pages](https://pages.github.com/). Перед началом работы, пожалуйста, посмотрите видео-инструкцию по [ссылке](https://embed.new.video/cxEqtfQzkYST15TtikEAWF?sig=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lwIjoiMTA5LjI1Mi40MS45OCIsInZpZGVvX3Rva2VuIjoiY3hFcXRmUXprWVNUMTVUdGlrRUFXRiJ9.fqxDLhpUA1gcTj6mnjqO0q9r5Wvqk8by1jdkCzz6FMY).**
+
 В рамках дипломного проекта вам необходимо сверстать макет сайта для трех групп устройств: десктопные экраны, планшеты и смартфоны.
 
 Макеты сайта для различных экранов выглядят так:
