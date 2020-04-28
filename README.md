@@ -3,6 +3,8 @@
 **Диплом должен быть реализован локально и опубликован на сервисе [GitHub Pages](https://pages.github.com/). 
 Перед началом работы, пожалуйста, посмотрите видео-инструкцию по [ссылке](https://embed.new.video/cxEqtfQzkYST15TtikEAWF?sig=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lwIjoiMTA5LjI1Mi40MS45OCIsInZpZGVvX3Rva2VuIjoiY3hFcXRmUXprWVNUMTVUdGlrRUFXRiJ9.fqxDLhpUA1gcTj6mnjqO0q9r5Wvqk8by1jdkCzz6FMY).**
 
+*В процессе реализации дипломного проекта, вам предстоит работать с локальными файлами и папками. Для того чтобы вам было легче разобраться как работают относительные пути, мы подготовили для вас [инструкцию](https://github.com/netology-code/guides/tree/master/relative-link).*
+
 В рамках дипломного проекта вам необходимо сверстать макет сайта для трех групп устройств: десктопные экраны, планшеты и смартфоны.
 
 Макеты сайта для различных экранов выглядят так:
