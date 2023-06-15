@@ -92,14 +92,6 @@
   
 2. Откройте файл **index.html** в браузере: откройте новое окно в браузере, нажмите **Open file** => выберите файл **index.html** 
   
-Мы поставили базовые настройки для начала работы над курсовым проектом. 
-
-Проверьте, что все настроено верно. Для этого:
-
-1. Сохраните изменения в файлах index.html и style.css, для этого нажмите в верхнем меню File => Save all
-
-2. Откройте файл index.html в браузере: откройте новое окно в браузере, нажмите Open file => выберите файл index.html
-
 ![Page layout current desktop](https://github.com/netology-code/mq-diploma/blob/master/github/8.%20%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B8%CC%86%D0%BA%D0%B8%20%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D1%8B.png)
   
   
