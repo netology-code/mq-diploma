@@ -192,7 +192,7 @@
 
 ### Публикация проекта
 
-При разработке проекта и для итоговой демонстрации вам нужно использовать сервис GitHub Pages. Перед работой с сервисом ознакомьтесь с видеоинструкцией [по ссылке](https://embed.new.video/cxEqtfQzkYST15TtikEAWF?sig=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lwIjoiMTA5LjI1Mi40MS45OCIsInZpZGVvX3Rva2VuIjoiY3hFcXRmUXprWVNUMTVUdGlrRUFXRiJ9.fqxDLhpUA1gcTj6mnjqO0q9r5Wvqk8by1jdkCzz6FMY), с тайминга 16:49.
+При разработке проекта и для итоговой демонстрации вам нужно использовать сервис GitHub Pages. Перед работой с сервисом ознакомьтесь с нструкцией [по ссылке](https://github.com/netology-code/guides/blob/mq-gh/mq-gh-pages/README.md)
 
 ### Как правильно задавать вопросы дипломному руководителю?
 Что поможет решить большинство частых проблем:
